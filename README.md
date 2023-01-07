@@ -8,6 +8,6 @@ It can be used to encrypt all sorts of files (e.g. photos or text files), and yo
 I only made this tool because I thought it would help me solve a very specific CTF challenge, but it turned out my hunch was completely wrong, which rendered the tool entirely useless.
 
 
-Yet, if anybody ever thinks such a tool could help them solve their CTF challenge, then I have saved you the time. Even when you find that the tool didn't help you the least bit, at least you came one step closer to your actual solution. 
+Yet, if anybody ever thinks such a tool could help them solve their CTF challenge, then I have saved you the time. Even when you find that the tool didn't help you the least bit, at least you came one step closer to your actual solution. Or rather, one step farther away from a nonsolution.
 
 “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - Eleanor Roosevelt
